@@ -174,7 +174,7 @@ button:hover, button:focus, .button:hover, .button:focus {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 150px;
           flex: 0 0 150px;
-  height: 85px;
+  height: 250px;
 }
 
 .page-header__item:last-child {
@@ -284,16 +284,17 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 
 .index {
-  /* position: absolute; */
+  position: absolute;
   width: 100%;
-  /* min-width: 800px; */
+  min-width: 800px;
   text-align: center;
   top: 50%;
-  /* margin-top: -55px; */
-  margin: 300px auto;
+  margin-top: -55px;
+  /* margin: 300px auto; */
 }
 
-.index h1, .index h3 {
+ /* .index h3, */
+ .index h1 {
   transform: matrix(1, -0.20, 0, 1, 0, 0);
   -ms-transform: matrix(1, -0.20, 0, 1, 0, 0);
   -webkit-transform: matrix(1, -0.20, 0, 1, 0, 0);
