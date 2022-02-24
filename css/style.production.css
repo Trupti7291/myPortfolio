@@ -300,6 +300,10 @@ button:hover, button:focus, .button:hover, .button:focus {
   -webkit-transform: matrix(1, -0.20, 0, 1, 0, 0);
 }
 
+.index h3{
+    color: #1c31f0;
+}
+
 .index h1 {
   font-family: "Oswald", Sans-serif;
   text-transform: uppercase;
