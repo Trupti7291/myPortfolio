@@ -1,7 +1,7 @@
-# myPortfolio
-Junior full-stack web developer in Flensburg, Germany.
+<h1 align="center"> myPortfolio </h1>
 
-This portfolio has been fully built and styled with HTML, CSS/scss and some JavaScript.
+## Objective
+This portfolio has been fully built and styled with HTML, CSS and some JavaScript. This portfolio tells about myself(my work, projects and Contact)
 
 You can visit it here.
 [myPortfolio]: (https://trupti7291.github.io/myPortfolio/)
