@@ -427,13 +427,14 @@ span.star {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 70px;
-  text-shadow: 4px 5px #e6e6d8, 6px 7px #c6a39a;
+  text-shadow: 4px 5px #495db9, 6px 7px #c6a39a;
 }
 
 .about p {
   font-family: "Oswald", Sans-serif;
   font-weight: 300;
   font-size: 18px;
+  color: #1c31f0;
   /* margin-bottom: 60px; */
 }
 
@@ -526,12 +527,17 @@ span.star {
     margin-bottom: 15px;
   }
   .page-footer {
-    display: inline-block;
+    /* display: inline-block;
     width: 100%;
     max-height: 20px;
     text-align: center;
     position: relative;
-    padding-top: 20px;
+    padding-top: 20px; */
+    padding: 10px;
+    color: #8993AF;
+    text-align: center;
+    position: relative;
+    margin-top: 10px;
   }
 }
 
